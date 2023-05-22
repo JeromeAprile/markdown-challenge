@@ -1,18 +1,18 @@
 # APRILE Jérôme
 Life is not about waiting for the storms to pass, it's about learning how to dance in the rain.
 
-<img src="https://github.com/JeromeAprile/markdown-challenge/blob/main/image1.jpeg?raw=true" alt="Photo de profil" width="150" height="150">
+<img src="https://github.com/JeromeAprile/markdown-challenge/blob/main/image1.jpeg?raw=true" alt="Photo de profil" width="300" height="300">
 
 
 ## I am a sweetie pie !
 
 
-| Questions           | Answers        |
-|---------------------|----------------|
-| Birthday            | 20/11          |
-| Favorite color      | Green          |
-| Favorite food       | Asian food     |
-| Pineapple on pizza  | <input type="checkbox"> <label for="choix1">Yes</label><br> - [x] (Hell Yes !) |
+| Questions ?          | Answers !       |
+|----------------------|-----------------|
+| Birthday ?           | 20/11           |
+| Favorite color ?     | Green           |
+| Favorite food ?      | Asian food      |
+| Pineapple on pizza ? | <input type="checkbox"> <label for="choix1">Hell Yes !</label><br> |
 
 
 
