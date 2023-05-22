@@ -1,7 +1,7 @@
 # APRILE Jérôme
 * "Life is not about waiting for the storms to pass, it's about learning how to dance in the rain." *
 
-[Photo de profil](https://github.com/JeromeAprile/markdown-challenge/blob/main/image1.jpeg?raw=true)
+![Photo de profil](https://github.com/JeromeAprile/markdown-challenge/blob/main/image1.jpeg?raw=true)
 
 ## I am a sweetie pie !
 
@@ -11,11 +11,14 @@
 | Birthday            | 20/11          |
 | Favorite color      | Green          |
 | Favorite food       | Asian food     |
-| Pineapple on pizza  | [x] Yes [ ] No |
+| Pineapple on pizza  | [x] Hell Yes   |
+
+
 
 ## Hobbies
 1. Voyager
-2. La musique
+2. Le sport
+3. La musique
  - Guitare acoustique
  - Guitare électrique
 
