@@ -12,7 +12,7 @@ Life is not about waiting for the storms to pass, it's about learning how to dan
 | Birthday            | 20/11          |
 | Favorite color      | Green          |
 | Favorite food       | Asian food     |
-| Pineapple on pizza  | <input type="checkbox" checked> Hell Yes! <input type="checkbox"> No. |
+| Pineapple on pizza  | <input type="checkbox" checked> Hell Yes!|
 
 
 
