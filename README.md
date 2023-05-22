@@ -1,9 +1,9 @@
-#APRILE Jérôme
-*"Life is not about waiting for the storms to pass, it's about learning how to dance in the rain."*
+# APRILE Jérôme
+* "Life is not about waiting for the storms to pass, it's about learning how to dance in the rain." *
 
 [Photo de profil](https://github.com/JeromeAprile/markdown-challenge/blob/main/image1.jpeg?raw=true)
 
-##I am a sweetie pie !
+## I am a sweetie pie !
 
 
 | Questions           | Answers        |
@@ -13,16 +13,16 @@
 | Favorite food       | Asian food     |
 | Pineapple on pizza  | [x] Yes [ ] No |
 
-##Hobbies
+## Hobbies
 1. Voyager
 2. La musique
  - Guitare acoustique
  - Guitare électrique
 
-##You can always count on me when...
+## You can always count on me when...
 ... it comes to going for a drink with friends. I'm always up for socializing and creating memorable moments together.
 
-##A funny story :
+## A funny story :
 
 That day, I didn't hear my alarm clock ring, I walked with my socks on the still wet bathroom floor, I arrived late for the first appointment of my day, I forgot my phone at home... Truly the kind of day that makes you want to go back to bed and wait for tomorrow.
 
@@ -44,9 +44,10 @@ I spent the following week scrubbing every corner of the kitchen that had been s
 
 Probably one of the best days of my life.
 
-##TL;DR
+## TL;DR
 
 "I set fire to a pizza and tried to put out the beginning of the fire by blowing on the flames."
 
+## Others students
 
 << [Jason](https://github.com/J0K3RY-03/markdown-challenge#readme) || **Jérôme** || [Julien]() >>
