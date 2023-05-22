@@ -7,19 +7,19 @@ Life is not about waiting for the storms to pass, it's about learning how to dan
 ## I am a sweetie pie !
 
 
-| Questions ?          | Answers !       |
-|----------------------|-----------------|
-| Birthday ?           | 20/11           |
-| Favorite color ?     | Green           |
-| Favorite food ?      | Asian food      |
-| Pineapple on pizza ? | <input type="checkbox"> <label for="choix1">Hell Yes !</label><br> |
+| Questions           | Answers        |
+|---------------------|----------------|
+| Birthday            | 20/11          |
+| Favorite color      | Green          |
+| Favorite food       | Asian food     |
+| Pineapple on pizza  | <input type="checkbox" checked> Hell Yes! <input type="checkbox"> No. |
 
 
 
 ## Hobbies
 1. Travel
 2. Sport
-3. Music
+3. Music :
  - Acoustic guitar
  - Electric guitar
  - Kazoo
